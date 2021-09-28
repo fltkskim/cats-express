@@ -15,7 +15,6 @@ $ npm run dev
 ```
 
 ## backend dotenv
-MONGODB_URI
-PORT=8001
-JWT_SECRET
-# cats-express
+* MONGODB_URI
+* PORT=8001
+* JWT_SECRET
